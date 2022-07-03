@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* 设置网页背景图 */
+    background-image: url(ground.jpeg);
+    background-repeat: no-repeat;
+}
+.wrap{
+    /* 居中 */
+    margin: 0 auto;
+    margin-top: 50px;
+    /* 登录框内部的距离(内部与输入框和按钮的距离) */
+    padding: 20px 50px;
+    /* 登录框背景颜色和透明度 */
+    background-color: #00000090;
+    width: 400px;
+    /* 圆角边 */
+    border-radius: 10px;
+    /* 框内所有内容剧中 */
+    text-align: center;
+}
+/* 标题字体 */
+.wrap .title{
+    color: white;
+}
+.wrap input[type="button"]{
+    border: 0;
+    width: 150px;
+    height: 25px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* 按钮圆角边 */
+    border-radius: 20px;
+    /* 设置按钮渐变 */
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+}

